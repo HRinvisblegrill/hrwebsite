@@ -1,0 +1,13 @@
+<!-- FOLDER: HR-Agency-Platform | FILE: about-agency.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>About Profile | HRWEBSITECREATERgency</title><script src="https://tailwindcss.com"></script></head>
+<body class="bg-slate-950 text-slate-400 py-16 px-6 font-mono text-xs">
+    <div class="max-w-3xl mx-auto bg-slate-900 p-8 rounded-xl border border-slate-800">
+        <h1 class="text-xl font-bold text-white mb-4 uppercase text-blue-400">// Core Origin Profile</h1>
+        <p class="mb-4 leading-relaxed">HRwesitecreateragency shuru hui thi ek single focus ke saath: Pure world me sabse dynamic aur heavy computing traffic websites design karna. Ranchi Ratu Road se manage hone wali ye agency pure full-stack frameworks ka backend aur frontend maintain karti hai.</p>
+        <p class="leading-relaxed">Hum high-end security nodes aur optimization indices embed karte hain jisse page compression ratio absolute level par optimized rahe.</p>
+        <div class="mt-6"><a href="index.html" class="text-blue-400 underline">Back to Terminal</a></div>
+    </div>
+</body>
+</html>

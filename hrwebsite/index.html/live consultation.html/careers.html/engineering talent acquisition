@@ -1,0 +1,12 @@
+<!-- FOLDER: HR-Agency-Platform | FILE: careers.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Careers Matrix</title><script src="https://tailwindcss.com"></script></head>
+<body class="bg-slate-950 text-slate-500 py-16 px-6 font-mono text-xs">
+    <div class="max-w-2xl mx-auto bg-slate-900 p-6 rounded border border-slate-800">
+        <h1 class="text-white font-bold mb-2 uppercase text-blue-400">// Join The Sovereign Engineering Core</h1>
+        <p class="text-slate-400 mb-6">We are constantly searching for brutal clean-code architects who can design custom API clusters effortlessly.</p>
+        <p>Send your GitHub profiles directly to phone uplink pipeline: <span class="text-white font-bold">+91 7061899614</span></p>
+    </div>
+</body>
+</html>

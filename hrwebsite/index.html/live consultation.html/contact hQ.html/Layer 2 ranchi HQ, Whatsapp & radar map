@@ -1,0 +1,40 @@
+<!-- FOLDER: HR-Agency-Platform | FILE: contact-hq.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact Command HQ | HRwesitecreateragency Ranchi</title>
+    <script src="https://tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cloudflare.com">
+</head>
+<body class="bg-slate-950 text-slate-100 antialiased py-16 px-6">
+    <div class="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+        <div>
+            <span class="text-[10px] font-mono tracking-widest text-blue-400 uppercase block mb-1">// Centralized Station</span>
+            <h1 class="text-4xl font-black mb-4 uppercase">Ranchi Command HQ</h1>
+            <p class="text-slate-400 text-sm mb-8 leading-relaxed">Our main architecture center is stationed at the heart of Ranchi city, fully prepared to process ultra-dynamic server scale systems.</p>
+            
+            <div class="space-y-4">
+                <div class="flex items-start gap-4 bg-slate-900/60 p-5 rounded-2xl border border-slate-800">
+                    <i class="fas fa-map-marked-alt text-xl text-blue-500 mt-1"></i>
+                    <div>
+                        <span class="text-[9px] text-slate-500 block font-mono">CORE ADDRESS NODES</span>
+                        <span class="font-bold text-xs text-slate-300">Ratu Road, Near Pahari Mandir, Kumhartoli, Ranchi, Jharkhand 834001</span>
+                    </div>
+                </div>
+                <a href="https://wa.me" class="flex items-center gap-4 bg-slate-900 p-4 rounded-xl border border-slate-800 text-emerald-400 text-xs font-mono font-bold">
+                    <i class="fab fa-whatsapp text-2xl"></i> +91 7061899614 (Live Gateway Link)
+                </a>
+            </div>
+        </div>
+
+        <div class="bg-slate-900 border border-slate-800 p-4 rounded-2xl">
+            <div class="w-full h-80 rounded-xl bg-slate-950 flex flex-col items-center justify-center border border-slate-800 text-center px-4 font-mono">
+                <i class="fas fa-crosshairs text-red-500 text-3xl mb-2 animate-pulse"></i>
+                <p class="text-xs font-bold text-slate-200">RADAR LOCK: RATU ROAD, RANCHI</p>
+                <span class="text-[10px] text-slate-600 mt-1">Coordinates: 23.3681° N, 85.3087° E</span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

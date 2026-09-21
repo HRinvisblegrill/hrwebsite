@@ -1,0 +1,12 @@
+<!-- FOLDER: HR-Agency-Platform | FILE: live-consultation.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Video Consultation</title><script src="https://tailwindcss.com"></script></head>
+<body class="bg-slate-950 text-slate-400 py-16 px-6 font-mono text-xs">
+    <div class="max-w-md mx-auto bg-slate-900 p-6 rounded border border-slate-800">
+        <h1 class="text-white font-bold mb-3 uppercase">// Sync Consultation Channel</h1>
+        <p class="mb-4">Ranchi headquarters ke master developers ke sath system configuration roadmap design karne ke liye directly session call slot line open karein.</p>
+        <button onclick="alert('Slot router open! Redirecting pipeline to WhatsApp agent matrix.')" class="w-full py-2 bg-blue-600 text-white font-bold uppercase rounded">Initiate Live Booking</button>
+    </div>
+</body>
+</html>

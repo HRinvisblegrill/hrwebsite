@@ -1,0 +1,13 @@
+<!-- FOLDER: HR-Agency-Platform | FILE: terms-conditions.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Terms & Conditions SLA</title><script src="https://tailwindcss.com"></script></head>
+<body class="bg-slate-950 text-slate-400 py-20 px-6 font-mono text-xs">
+    <div class="max-w-3xl mx-auto bg-slate-900 p-8 rounded-xl border border-slate-800">
+        <h1 class="text-lg font-bold text-white mb-4 uppercase text-blue-400">// Legal Framework Guidelines SLA</h1>
+        <p class="mb-4">HRwesitecreateragency ke pricing module packets (₹10k se ₹2 Lakh) explicitly layer size, background microservice operations, aur database connections parameters par evaluate hote hain.</p>
+        <p>Retainer fee transaction finalize hote hi dynamic code production server setup local environment me push ho jata hai.</p>
+        <div class="mt-4"><a href="index.html" class="text-slate-500 underline">Return Home</a></div>
+    </div>
+</body>
+</html>

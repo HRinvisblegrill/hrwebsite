@@ -1,0 +1,28 @@
+<!-- FOLDER: HR-Agency-Platform | FILE: core-team.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Core Engineers Matrix</title><script src="https://tailwindcss.com"></script></head>
+<body class="bg-slate-950 text-slate-400 py-16 px-6 font-mono text-xs">
+    <div class="max-w-4xl mx-auto">
+        <h1 class="text-white text-xl font-bold uppercase mb-8 tracking-wider">// System Engineers Matrix</h1>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            <div class="bg-slate-900 p-5 rounded border border-slate-800">
+                <div class="text-white font-bold mb-1">Lead Architect Node</div>
+                <div class="text-blue-500 text-[10px] uppercase mb-3">Full-Stack Core Specialist</div>
+                <p class="text-slate-500">Manages high velocity server clusters and isolated data mesh connectivity routes.</p>
+            </div>
+            <div class="bg-slate-900 p-5 rounded border border-slate-800">
+                <div class="text-white font-bold mb-1">SEO Matrix Director</div>
+                <div class="text-purple-500 text-[10px] uppercase mb-3">Crawler Index Optimization</div>
+                <p class="text-slate-500">Injects custom metadata layers and compresses 10,000+ live search term matrices.</p>
+            </div>
+            <div class="bg-slate-900 p-5 rounded border border-slate-800">
+                <div class="text-white font-bold mb-1">API Node Engineer</div>
+                <div class="text-emerald-500 text-[10px] uppercase mb-3">Backend Security Pipelines</div>
+                <p class="text-slate-500">Deploys microservice maps, custom gateways and encrypted telemetry nodes.</p>
+            </div>
+        </div>
+        <div class="mt-8 text-center"><a href="index.html" class="text-slate-500 hover:text-white underline">Return Home</a></div>
+    </div>
+</body>
+</html>

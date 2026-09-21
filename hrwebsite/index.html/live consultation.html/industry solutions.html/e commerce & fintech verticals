@@ -1,0 +1,15 @@
+<!-- FOLDER: HR-Agency-Platform | FILE: industry-solutions.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Industry Solutions</title><script src="https://tailwindcss.com"></script></head>
+<body class="bg-slate-950 text-slate-400 py-16 px-6 font-mono text-xs">
+    <div class="max-w-3xl mx-auto bg-slate-900 p-6 rounded border border-slate-800">
+        <h1 class="text-white font-bold uppercase mb-4">// Enterprise Industry Verticals</h1>
+        <p class="mb-4 text-slate-500">Hum har scale industries ke liye dedicated frameworks design karte hain:</p>
+        <div class="space-y-2">
+            <div class="p-3 bg-slate-950 border border-slate-800 rounded font-bold">• Hyper-Velocity Fintech Systems</div>
+            <div class="p-3 bg-slate-950 border border-slate-800 rounded font-bold">• Highly Scalable Multivendor E-Commerce Hubs</div>
+        </div>
+    </div>
+</body>
+</html>

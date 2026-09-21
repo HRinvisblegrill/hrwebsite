@@ -1,0 +1,16 @@
+<!-- FOLDER: HR-Agency-Platform | FILE: case-studies.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Case Studies</title><script src="https://tailwindcss.com"></script></head>
+<body class="bg-slate-950 text-slate-500 py-16 px-6 font-mono text-xs">
+    <div class="max-w-3xl mx-auto bg-slate-900 p-6 rounded border border-slate-800">
+        <h1 class="text-white font-bold mb-4 uppercase text-yellow-500">// Enterprise Case File Matrix</h1>
+        <p class="text-slate-400 mb-4">Humne ek high-scale corporate system ko monitor kiya jiska organic server load completely broken tha. After structural script refactoring by HRwesitecreateragency:</p>
+        <ul class="space-y-2 text-slate-400 mb-4">
+            <li>• Page interactive speed improved by 400%.</li>
+            <li>• Google visibility parameters updated to top ranks within 14 days.</li>
+        </ul>
+        <a href="index.html" class="text-blue-400">Return to Core Cluster</a>
+    </div>
+</body>
+</html>

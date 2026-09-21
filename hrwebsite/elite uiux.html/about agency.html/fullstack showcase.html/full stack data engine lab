@@ -1,0 +1,16 @@
+<!-- FOLDER: HR-Agency-Platform | FILE: fullstack-showcase.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>FullStack Showcase</title><script src="https://tailwindcss.com"></script></head>
+<body class="bg-slate-950 text-slate-400 py-16 px-6 font-mono text-xs">
+    <div class="max-w-3xl mx-auto bg-slate-900 p-6 rounded border border-slate-800">
+        <h1 class="text-white text-sm font-bold uppercase mb-4 text-blue-400">// Isolated Full-Stack Compute Environment</h1>
+        <p class="mb-4">MERN Stack, Next.js Clusters, aur cloud-native continuous deployments humare routine pipelines hain. Niche aap custom stack analytics model overview check kar sakte hain.</p>
+        <div class="p-4 bg-slate-950 rounded border border-slate-800 text-[11px] text-slate-600">
+            $ systemctl status hragency-backend-node.service<br>
+            <span class="text-emerald-500">● active (running)</span> - Processing structural payload tokens smoothly.
+        </div>
+        <div class="mt-6"><a href="index.html" class="text-slate-500 underline">Return to Main Core</a></div>
+    </div>
+</body>
+</html>

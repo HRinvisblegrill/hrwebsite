@@ -1,0 +1,17 @@
+<!-- FOLDER: HR-Agency-Platform | FILE: tech-stack.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Tech Stack Engines</title><script src="https://tailwindcss.com"></script></head>
+<body class="bg-slate-950 text-slate-400 py-16 px-6 font-mono text-xs">
+    <div class="max-w-2xl mx-auto bg-slate-900 p-6 rounded border border-slate-800">
+        <h1 class="text-white font-bold uppercase mb-4">// System Language Matrix</h1>
+        <p class="mb-4">Hum pure clean runtime engines use karte hain bina kisi redundant package bloating ke:</p>
+        <div class="grid grid-cols-2 gap-2 text-slate-500 font-bold">
+            <div class="p-2 bg-slate-950 border border-slate-950 rounded">• React / Next.js Nodes</div>
+            <div class="p-2 bg-slate-950 border border-slate-950 rounded">• Node.js / Express Clusters</div>
+            <div class="p-2 bg-slate-950 border border-slate-950 rounded">• MongoDB / PostgreSQL Mesh</div>
+            <div class="p-2 bg-slate-950 border border-slate-950 rounded">• Tailwind CSS Vector System</div>
+        </div>
+    </div>
+</body>
+</html>

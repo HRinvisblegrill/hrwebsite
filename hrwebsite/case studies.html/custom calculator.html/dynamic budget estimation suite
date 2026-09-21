@@ -1,0 +1,22 @@
+<!-- FOLDER: HR-Agency-Platform | FILE: custom-calculator.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Budget Estimator Suite</title><script src="https://tailwindcss.com"></script></head>
+<body class="bg-slate-950 text-slate-300 py-16 px-6 font-mono text-xs">
+    <div class="max-w-md mx-auto bg-slate-900 p-6 rounded-xl border border-slate-800">
+        <h3 class="text-white font-bold uppercase mb-4 text-blue-400">Instant Architecture Cost Estimator</h3>
+        <div class="space-y-4">
+            <div>
+                <label class="block text-slate-500 mb-1">Select Architecture Complexity Tier:</label>
+                <select id="tierSel" class="w-full bg-slate-950 border border-slate-800 p-2 text-xs rounded focus:outline-none">
+                    <option value="15000">Starter Core Layer Pack (₹10,000 - ₹15,000)</option>
+                    <option value="25000">Professional Growth Layer Pack (₹20,000 - ₹25,000)</option>
+                    <option value="50000">Advanced Integrated API Setup (₹50,000)</option>
+                    <option value="150000">Enterprise Deep Multi-Layer Stack (₹1 Lakh - ₹2 Lakh)</option>
+                </select>
+            </div>
+            <button onclick="alert('Estimated Resource Allocation Price Code: INR ' + document.getElementById('tierSel').value)" class="w-full py-2 bg-blue-600 text-white font-bold uppercase rounded">Compute Deployment Budget</button>
+        </div>
+    </div>
+</body>
+</html>

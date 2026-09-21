@@ -1,0 +1,20 @@
+<!-- FOLDER: HR-Agency-Platform | FILE: global-portfolio.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Global Portfolio</title><script src="https://tailwindcss.com"></script></head>
+<body class="bg-slate-950 text-slate-400 py-16 px-6 font-mono text-xs">
+    <div class="max-w-4xl mx-auto">
+        <h1 class="text-white text-base font-bold mb-6 uppercase">// Deployed Architecture Directory</h1>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="bg-slate-900 p-4 rounded border border-slate-800">
+                <span class="text-blue-500 font-bold">Project Alpha Mesh</span>
+                <p class="text-slate-500 mt-1">20-Layer e-commerce portal indexing 50,000 products live every single minute.</p>
+            </div>
+            <div class="bg-slate-900 p-4 rounded border border-slate-800">
+                <span class="text-purple-500 font-bold">Project Beta Gateway</span>
+                <p class="text-slate-500 mt-1">SaaS custom engine with fully decentralized web hooks handling severe user load.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

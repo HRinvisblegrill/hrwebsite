@@ -1,0 +1,13 @@
+<!-- FOLDER: HR-Agency-Platform | FILE: elite-uiux.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Cinematic 3D UI/UX Lab</title><script src="https://tailwindcss.com"></script></head>
+<body class="bg-slate-950 text-slate-400 py-16 px-6 font-mono text-xs">
+    <div class="max-w-2xl mx-auto text-center bg-slate-900 p-8 rounded-xl border border-slate-800">
+        <h1 class="text-white font-bold mb-4 uppercase text-pink-500">Premium Cinematic Vector Experience</h1>
+        <p class="mb-6">Hum glassmorphic layouts, continuous view transforms, aur fluid design physics implement karte hain taaki aapka consumer continuous landing page session par retain rahe.</p>
+        <div class="w-16 h-16 rounded-full bg-gradient-to-r from-pink-500 to-blue-500 mx-auto animate-spin mb-6"></div>
+        <a href="index.html" class="text-slate-500 underline">Return Home</a>
+    </div>
+</body>
+</html>
